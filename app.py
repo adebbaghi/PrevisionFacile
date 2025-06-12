@@ -16,7 +16,7 @@ Aucune compétence technique n'est nécessaire.
 📱 **Utilisation sur téléphone / tablette**  
 - Ouvrez un fichier depuis votre mobile ou Google Drive  
 - Le format doit contenir deux colonnes : `date` et `sales`  
-- En cas de souci, envoyez votre fichier à : **debdata@gmail.com**
+- En cas de souci, envoyez votre fichier à : **debdata@outlook.com**
 """)
 
 # 🔼 Upload du fichier
